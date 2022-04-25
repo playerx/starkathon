@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "compile": "cairo-compile contracts/rps.cairo --output ./bin/rps-compiled.json"
+  }
+}
